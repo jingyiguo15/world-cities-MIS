@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 df = pd.read_csv("housing.csv")
 
 # Title
-st.title("California Housing Data (1990) by Your Name")
+st.title("California Housing Data (1990) by Guo Jingyi")
 
 # House value slider
 min_value = st.slider(
